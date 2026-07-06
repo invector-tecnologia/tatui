@@ -2,8 +2,8 @@
 
 version       = "0.1.1"
 author        = "Bernardo Rosmaninho <bernardo.rosmaninho@gmail.com>"
-description   = "Ergonomic, immediate-mode Terminal User Interface library for Nim (a faithful port of ratatui's architecture)."
-license       = "MIT"
+description   = "Ergonomic, immediate-mode Terminal User Interface library for Nim."
+license       = "AGPL-3.0"
 srcDir        = "src"
 
 # Dependencies
